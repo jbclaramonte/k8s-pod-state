@@ -1,4 +1,4 @@
-from busybox
+FROM ubuntu
 
 USER root
 
